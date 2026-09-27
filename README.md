@@ -25,4 +25,31 @@ This project aims to build a ChatGPT-like AI assistant with features like:
 
 ## Status
 
-Project under development
+### Day 1
+-project initialization
+- Professional folder structure
+- GitHub setup
+- Virtual environment
+- Git configuration
+
+### Day 2
+- Installed Streamlit
+- Built ChatGPT-style interface
+- Implemented chat history
+- Added AI placeholder response
+- Successfully launched the application
+
+##  Upcoming Features
+
+- Connect Llama 3
+- Multi-LLM Support
+- RAG Pipeline
+- PDF Chat
+- Voice Assistant
+- AI Memory
+- Deployment
+
+## Developer
+
+Dhairyashil Shinde
+Building this project from scratch to learn Generative Ai, LLMs, RAG, and AI Engineering.
