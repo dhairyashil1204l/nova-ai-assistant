@@ -1,55 +1,22 @@
-# Nova AI Assistant
+# Nova AI Assistant 🤖
 
-Nova AI is a Multi-LLM Intelligent Assistant built using Python and Generative AI technologies
+An AI assistant built using Streamlit and Google Gemini API.
 
-## Project Overview
-
-This project aims to build a ChatGPT-like AI assistant with features like:
-
-- Multiple LLM support
-- Conversation memory
-- Document Quetion Answering
-- RAG pipeline
-- AI-powered search
-- Voice interaction
+## Features
+- User interaction through Streamlit UI
+- Gemini AI powered responses
+- Secure API key management using .env
+- Real-time AI response generation
 
 ## Tech Stack
-
 - Python
 - Streamlit
-- LangChain
-- Ollama
-- HuggingFace
-- FAISS
-- SQLite
+- Google Gemini API
+- python-dotenv
 
-## Status
+## Project Progress
 
-### Day 1
--project initialization
-- Professional folder structure
-- GitHub setup
-- Virtual environment
-- Git configuration
-
-### Day 2
-- Installed Streamlit
-- Built ChatGPT-style interface
-- Implemented chat history
-- Added AI placeholder response
-- Successfully launched the application
-
-##  Upcoming Features
-
-- Connect Llama 3
-- Multi-LLM Support
-- RAG Pipeline
-- PDF Chat
-- Voice Assistant
-- AI Memory
-- Deployment
-
-## Developer
-
-Dhairyashil Shinde
-Building this project from scratch to learn Generative Ai, LLMs, RAG, and AI Engineering.
+Day 1 - Project Setup 
+Day 2 - Streamlit Interface 
+Day 3 - Gemini API Integration 
+Day 4 - Chat Interface (Upcoming)
